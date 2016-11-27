@@ -33,7 +33,6 @@ conda search pycosat --channel conda-forge
 ```
 
 
-
 About conda-forge
 =================
 
